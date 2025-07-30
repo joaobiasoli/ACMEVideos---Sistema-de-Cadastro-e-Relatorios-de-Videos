@@ -1,0 +1,8 @@
+1;11;Raiders of the Lost Ark;115.2
+1,22,Oppenheimer,Christopher Nolan
+3;33;Star Wars: Episode IV: A New Hope;George Lucas;121.1
+1;44;Player Number One;Steven Spielberg;2018,8;140
+2;55;Friends;1994
+4;66;Game of Thrones;2011;2019;73
+2;77;How I Met Your Mother
+2;AA;Mr Robot;2015;2019;45

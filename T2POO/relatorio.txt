@@ -1,0 +1,5 @@
+2: Erro - nenhum vídeo cadastrado
+3: Erro - nenhum video cadastrado
+4: Erro - nenhum seriado cadastrado
+5: Erro - nenhum filme cadastrado
+6: Erro - nenhum vídeo cadastrado

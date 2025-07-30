@@ -1,0 +1,6 @@
+1;101;Oppenheimer;Christopher Nolan;180
+2;102;Breaking Bad;2008;2013;62
+1;103;Interstellar;Christopher Nolan;169
+2;104;Stranger Things;2016;2022;34
+1;101;Dunkirk;Christopher Nolan;106
+2;105;Dark;2017;2020;26
